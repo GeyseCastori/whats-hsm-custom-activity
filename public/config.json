@@ -31,7 +31,7 @@
         }
     },
     "configurationArguments": {
-      "applicationExtensionKey": "__application_key_from_appcenter_here__",
+      "applicationExtensionKey": "e54eb5e2-5da1-4e8c-a7db-a0632a380f85",
       "save": {
         "url": "https://journey-builder-activity-exemple.onrender.com/save",
           "verb": "POST",
