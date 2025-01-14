@@ -8,7 +8,7 @@
   "type": "REST",
   "lang": {
     "en-US": {
-      "name": "Send Whatsapp HSM DEV",
+      "name": "Custom: Whatsapp HSM API",
       "description": "HSM template submission via WhatsApp."
     },
     "pt-BR": {
